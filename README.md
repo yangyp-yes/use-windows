@@ -16,3 +16,16 @@ https://www.autohotkey.com/
 //TODO 加到开机启动项
 
 ## 自动根据软件切换输入法工具（TODO）
+
+
+
+## Snipaste
+截图软件,贴图功能非常好用
+
+## uTools 
+快速启动软件工具
+
+## fork
+收费git软件,用来替代 sourcetree,sourcetree文件多会非常卡
+
+## clash
