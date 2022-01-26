@@ -10,3 +10,4 @@ https://www.autohotkey.com/
 配置文件参考 [my.ahk](my.ahk)
 
 
+目前做了，基础操作由ctrl 映射到alt，CapsLock映射成 ctrl，主要配合ctrl a/e/b/f/d进行上下左右移动和删除操作，shift+CapsLock实现原始切换功能
