@@ -11,3 +11,8 @@ https://www.autohotkey.com/
 
 
 目前做了，基础操作由ctrl 映射到alt，CapsLock映射成 ctrl，主要配合ctrl a/e/b/f/d进行上下左右移动和删除操作，shift+CapsLock实现原始切换功能
+
+安装autohotkey 后新建my.ahk文件直接运行即可
+//TODO 加到开机启动项
+
+## 自动根据软件切换输入法工具（TODO）
