@@ -18,6 +18,10 @@ https://www.autohotkey.com/
 
 直接将脚本放到开启启动的文件夹中,我的目录是 C:\Users\yang\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup 用户名替换成自己的就可以,系统是windows10
 
+和webstorm快捷键冲突问题
+
+将webstorm的快捷键方式设置为sublime text ,可以了
+
 ## 自动根据软件切换输入法工具（TODO）
 
 
